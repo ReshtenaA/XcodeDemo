@@ -1,0 +1,38 @@
+{
+  "" : {
+    "diagnostics" : "/Users/reshtenaarghandiwal/Desktop/XcodeDemo/XcodeDemo/Build/Intermediates.noindex/XcodeDemo.build/Debug-iphonesimulator/XcodeDemo.build/Objects-normal/arm64/XcodeDemo-master.dia",
+    "emit-module-dependencies" : "/Users/reshtenaarghandiwal/Desktop/XcodeDemo/XcodeDemo/Build/Intermediates.noindex/XcodeDemo.build/Debug-iphonesimulator/XcodeDemo.build/Objects-normal/arm64/XcodeDemo-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/reshtenaarghandiwal/Desktop/XcodeDemo/XcodeDemo/Build/Intermediates.noindex/XcodeDemo.build/Debug-iphonesimulator/XcodeDemo.build/Objects-normal/arm64/XcodeDemo-master-emit-module.dia",
+    "swift-dependencies" : "/Users/reshtenaarghandiwal/Desktop/XcodeDemo/XcodeDemo/Build/Intermediates.noindex/XcodeDemo.build/Debug-iphonesimulator/XcodeDemo.build/Objects-normal/arm64/XcodeDemo-master.swiftdeps"
+  },
+  "/Users/reshtenaarghandiwal/Desktop/XcodeDemo/XcodeDemo/Build/Intermediates.noindex/XcodeDemo.build/Debug-iphonesimulator/XcodeDemo.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "const-values" : "/Users/reshtenaarghandiwal/Desktop/XcodeDemo/XcodeDemo/Build/Intermediates.noindex/XcodeDemo.build/Debug-iphonesimulator/XcodeDemo.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftconstvalues",
+    "dependencies" : "/Users/reshtenaarghandiwal/Desktop/XcodeDemo/XcodeDemo/Build/Intermediates.noindex/XcodeDemo.build/Debug-iphonesimulator/XcodeDemo.build/Objects-normal/arm64/GeneratedAssetSymbols.d",
+    "diagnostics" : "/Users/reshtenaarghandiwal/Desktop/XcodeDemo/XcodeDemo/Build/Intermediates.noindex/XcodeDemo.build/Debug-iphonesimulator/XcodeDemo.build/Objects-normal/arm64/GeneratedAssetSymbols.dia",
+    "index-unit-output-path" : "/XcodeDemo.build/Debug-iphonesimulator/XcodeDemo.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/reshtenaarghandiwal/Desktop/XcodeDemo/XcodeDemo/Build/Intermediates.noindex/XcodeDemo.build/Debug-iphonesimulator/XcodeDemo.build/Objects-normal/arm64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/reshtenaarghandiwal/Desktop/XcodeDemo/XcodeDemo/Build/Intermediates.noindex/XcodeDemo.build/Debug-iphonesimulator/XcodeDemo.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "swift-dependencies" : "/Users/reshtenaarghandiwal/Desktop/XcodeDemo/XcodeDemo/Build/Intermediates.noindex/XcodeDemo.build/Debug-iphonesimulator/XcodeDemo.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftdeps",
+    "swiftmodule" : "/Users/reshtenaarghandiwal/Desktop/XcodeDemo/XcodeDemo/Build/Intermediates.noindex/XcodeDemo.build/Debug-iphonesimulator/XcodeDemo.build/Objects-normal/arm64/GeneratedAssetSymbols~partial.swiftmodule"
+  },
+  "/Users/reshtenaarghandiwal/Desktop/XcodeDemo/XcodeDemo/XcodeDemo/ContentView.swift" : {
+    "const-values" : "/Users/reshtenaarghandiwal/Desktop/XcodeDemo/XcodeDemo/Build/Intermediates.noindex/XcodeDemo.build/Debug-iphonesimulator/XcodeDemo.build/Objects-normal/arm64/ContentView.swiftconstvalues",
+    "dependencies" : "/Users/reshtenaarghandiwal/Desktop/XcodeDemo/XcodeDemo/Build/Intermediates.noindex/XcodeDemo.build/Debug-iphonesimulator/XcodeDemo.build/Objects-normal/arm64/ContentView.d",
+    "diagnostics" : "/Users/reshtenaarghandiwal/Desktop/XcodeDemo/XcodeDemo/Build/Intermediates.noindex/XcodeDemo.build/Debug-iphonesimulator/XcodeDemo.build/Objects-normal/arm64/ContentView.dia",
+    "index-unit-output-path" : "/XcodeDemo.build/Debug-iphonesimulator/XcodeDemo.build/Objects-normal/arm64/ContentView.o",
+    "llvm-bc" : "/Users/reshtenaarghandiwal/Desktop/XcodeDemo/XcodeDemo/Build/Intermediates.noindex/XcodeDemo.build/Debug-iphonesimulator/XcodeDemo.build/Objects-normal/arm64/ContentView.bc",
+    "object" : "/Users/reshtenaarghandiwal/Desktop/XcodeDemo/XcodeDemo/Build/Intermediates.noindex/XcodeDemo.build/Debug-iphonesimulator/XcodeDemo.build/Objects-normal/arm64/ContentView.o",
+    "swift-dependencies" : "/Users/reshtenaarghandiwal/Desktop/XcodeDemo/XcodeDemo/Build/Intermediates.noindex/XcodeDemo.build/Debug-iphonesimulator/XcodeDemo.build/Objects-normal/arm64/ContentView.swiftdeps",
+    "swiftmodule" : "/Users/reshtenaarghandiwal/Desktop/XcodeDemo/XcodeDemo/Build/Intermediates.noindex/XcodeDemo.build/Debug-iphonesimulator/XcodeDemo.build/Objects-normal/arm64/ContentView~partial.swiftmodule"
+  },
+  "/Users/reshtenaarghandiwal/Desktop/XcodeDemo/XcodeDemo/XcodeDemo/XcodeDemoApp.swift" : {
+    "const-values" : "/Users/reshtenaarghandiwal/Desktop/XcodeDemo/XcodeDemo/Build/Intermediates.noindex/XcodeDemo.build/Debug-iphonesimulator/XcodeDemo.build/Objects-normal/arm64/XcodeDemoApp.swiftconstvalues",
+    "dependencies" : "/Users/reshtenaarghandiwal/Desktop/XcodeDemo/XcodeDemo/Build/Intermediates.noindex/XcodeDemo.build/Debug-iphonesimulator/XcodeDemo.build/Objects-normal/arm64/XcodeDemoApp.d",
+    "diagnostics" : "/Users/reshtenaarghandiwal/Desktop/XcodeDemo/XcodeDemo/Build/Intermediates.noindex/XcodeDemo.build/Debug-iphonesimulator/XcodeDemo.build/Objects-normal/arm64/XcodeDemoApp.dia",
+    "index-unit-output-path" : "/XcodeDemo.build/Debug-iphonesimulator/XcodeDemo.build/Objects-normal/arm64/XcodeDemoApp.o",
+    "llvm-bc" : "/Users/reshtenaarghandiwal/Desktop/XcodeDemo/XcodeDemo/Build/Intermediates.noindex/XcodeDemo.build/Debug-iphonesimulator/XcodeDemo.build/Objects-normal/arm64/XcodeDemoApp.bc",
+    "object" : "/Users/reshtenaarghandiwal/Desktop/XcodeDemo/XcodeDemo/Build/Intermediates.noindex/XcodeDemo.build/Debug-iphonesimulator/XcodeDemo.build/Objects-normal/arm64/XcodeDemoApp.o",
+    "swift-dependencies" : "/Users/reshtenaarghandiwal/Desktop/XcodeDemo/XcodeDemo/Build/Intermediates.noindex/XcodeDemo.build/Debug-iphonesimulator/XcodeDemo.build/Objects-normal/arm64/XcodeDemoApp.swiftdeps",
+    "swiftmodule" : "/Users/reshtenaarghandiwal/Desktop/XcodeDemo/XcodeDemo/Build/Intermediates.noindex/XcodeDemo.build/Debug-iphonesimulator/XcodeDemo.build/Objects-normal/arm64/XcodeDemoApp~partial.swiftmodule"
+  }
+}
